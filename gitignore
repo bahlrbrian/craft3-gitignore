@@ -24,3 +24,7 @@ web/imager/*
 /comps
 /gulpfile.js
 /package.json
+
+
+### PRESERVE ALL GITKEEP FILES
+!/**/.gitkeep
