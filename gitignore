@@ -22,8 +22,6 @@ web/imager/*
 ### DEVELOPMENT FILES
 /.ftpconfig
 /comps
-/gulpfile.js
-/package.json
 
 
 ### PRESERVE ALL GITKEEP FILES
